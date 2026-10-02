@@ -10,7 +10,7 @@ A CLI tool that finds hidden metadata in photos, PDFs, and Word documents, warns
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/metadata-checker.git
+git clone https://github.com/nikhileshk0375-hash/metadata-checker.git
 cd metadata-checker
 python3 -m venv venv
 source venv/bin/activate
