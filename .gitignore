@@ -1,4 +1,15 @@
+
 venv/
 __pycache__/
 *_clean.*
 *_original
+hello.py
+read_docx.py
+read_pdf.py
+read_photo.py
+test.jpg
+test.docx
+test.pdf
+test2.jpg
+test2_clean.jpg
+test_clean.*
